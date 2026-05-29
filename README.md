@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile 🚀
 
-I'm **Partha **, a B.Tech CSE Student from Kolkata
+I'm Partha, a B.Tech CSE Student from Kolkata
 
 💻 Aspiring Full Stack Developer  
 🤖 Learning AI & Machine Learning  
