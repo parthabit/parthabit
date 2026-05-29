@@ -37,9 +37,7 @@ I'm Partha, a B.Tech CSE Student from Kolkata
 
 ---
 
-## 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthabit&show_icons=true&theme=tokyonight)
 
 ---
 
