@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile 🚀
 
-I'm **Partha Das**, a B.Tech CSE Student from India 🇮🇳
+I'm **Partha **, a B.Tech CSE Student from Kolkata
 
 💻 Aspiring Full Stack Developer  
 🤖 Learning AI & Machine Learning  
