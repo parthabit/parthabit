@@ -38,11 +38,7 @@ I'm Partha, a B.Tech CSE Student from Kolkata
 ---
 ## 📊 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthabit&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthabit&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parthabit&theme=tokyonight)
+                                                            ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parthabit&theme=tokyonight)
 
 
 
