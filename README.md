@@ -21,7 +21,7 @@ I'm Partha, a B.Tech CSE Student from Kolkata
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 
