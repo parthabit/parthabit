@@ -8,7 +8,7 @@ I'm Partha, a B.Tech CSE Student from Kolkata
 🤖 Learning AI & Machine Learning  
 🎨 Exploring UI/UX Design  
 🌱 Currently improving Python, JavaScript and React
- 
+  
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/parthadas20040)
