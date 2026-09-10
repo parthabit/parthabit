@@ -6,7 +6,7 @@ I'm Partha, a B.Tech CSE Student from Kolkata
  
 💻 Aspiring Full Stack Developer                          
 🤖 Learning AI & Machine Learning  
-🎨 Exploring UI/UX Design  
+🎨 Exploring UI/UX Design   
 🌱 Currently improving Python, JavaScript and React
    
 ## 🌐 Connect With Me
