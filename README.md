@@ -17,7 +17,7 @@ I'm Partha, a B.Tech CSE Student from Kolkata
 
 ---
 
-## 🛠️ Things I Code With
+## 🛠️ Things I Code With 
 
 ### Languages
 
