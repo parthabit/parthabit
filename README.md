@@ -25,7 +25,7 @@ I'm Partha, a B.Tech CSE Student from Kolkata
 
 ### Frameworks & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind)](https://skillicons.dev)
 
 ### Tools & Platforms
 
@@ -33,7 +33,7 @@ I'm Partha, a B.Tech CSE Student from Kolkata
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,)](https://skillicons.dev)
 
 ---
 ## 📊 My Stats
